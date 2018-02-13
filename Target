@@ -1,0 +1,28 @@
+=====Work=====
+Let's Encrypt at webpage & e-mail server.
+Own4.
+Own2.
+Own5.
+
+=====OWN=====
+1. Setup webhosting in vmware (Host-Only)
+      Port Forward
+      Hamachi? No-IP?
+      Let's Encrypt
+      Nginx
+      Fail2Ban
+      .PEM files
+      MySQL
+      Email Verification
+      
+2. ISPCONFIG (https://www.ispconfig.org/)  //Manage Your Servers Directly Through Your Browser
+      Control Centos 7 host using web browsers.
+   
+3. VPN Server
+
+4. Script for Centos 7 
+    PHP 5.6
+    MySQL 5.6 with mysql_secure_installation
+    Httpd & PhpMyAdmin (Default version)
+
+5. GitLab
